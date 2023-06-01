@@ -1,0 +1,1 @@
+let nombre = prompt("como te llamas?")
